@@ -1,0 +1,12 @@
+ham/4700/8600/ham.png
+eggMayo/4300/8000/eggMayo.png
+tuna/4800/8700/tuna.png
+meatball/5200/9200/meatball.png
+turkey/5200/9200/turkey.png
+ltallanBMT/5200/9200/ltallanBMT.png
+subwayClub/5700/10100/subwayClub.png
+chickenTerlyaki/5700/10100/chickenTerlyaki.png
+rotisserieBarbecueChicken/5900/10500/rotisserieBarbecueChicken.png
+roastedChicken/5900/10500/roastedChicken.png
+turkeyBaconAvocado/6900/10900/turkeyBaconAvocado.png
+steakCheese/6500/10900/steakCheese.png
